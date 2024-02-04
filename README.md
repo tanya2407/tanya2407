@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi, I'm Tanya! 👋
 
 <!--
 **tanya2407/tanya2407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About Me
+- 💻 previously: SWE @ Deutsche Bank
+- 👩🏻‍🎓 currently: Computer Science graduate student @ New York University
+- 📪 connect with me: [Email](tanya.garg@nyu.edu) | [LinkedIn](https://www.linkedin.com/in/tanyagarg-24/). | Personal Site
+
+## My Interests
+- I am passionate about Big Data, Distributed Systems, and Machine Learning.
