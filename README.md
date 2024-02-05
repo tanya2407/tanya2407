@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-- 💻 previously: SWE @ Deutsche Bank
 - 👩🏻‍🎓 currently: Computer Science graduate student @ New York University
+- 💻 previously: SWE @ Deutsche Bank
 - 📪 connect with me: [Email](tanya.garg@nyu.edu) | [LinkedIn](https://www.linkedin.com/in/tanyagarg-24/) | Personal Site
 
 ## My Interests
