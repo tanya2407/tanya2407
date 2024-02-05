@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## About Me
 - 💻 previously: SWE @ Deutsche Bank
 - 👩🏻‍🎓 currently: Computer Science graduate student @ New York University
-- 📪 connect with me: [Email](tanya.garg@nyu.edu) | [LinkedIn](https://www.linkedin.com/in/tanyagarg-24/). | Personal Site
+- 📪 connect with me: [Email](tanya.garg@nyu.edu) | [LinkedIn](https://www.linkedin.com/in/tanyagarg-24/) | Personal Site
 
 ## My Interests
 - I am passionate about Big Data, Distributed Systems, and Machine Learning.
